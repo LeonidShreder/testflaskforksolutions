@@ -1,0 +1,2 @@
+SHOP_ID = 2838
+SHOP_SECRET_KEY = ""
